@@ -4,6 +4,6 @@ Execute `npm install` in root folder and in `/static` to install all dependencie
 
 Execute `npm run start` in root folder to start the node.js express server.
 
-Execute `npm run build` to the `bundle.js`.
+Execute `npm run build` to build the `bundle.js`.
 
 The server runs on port 80.
